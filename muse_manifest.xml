@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://caviarmeow/safward.github.io" resolutions="1x,2x" timestamp="1554979522771">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://caviarmeow/safward.github.io" resolutions="1x,2x" timestamp="1555578001649">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
-    <file name="index.css" crc="4274965629" ref="index"/>
-    <file name="nomq_index.css" crc="3957581792" ref="index"/>
+    <file name="index.css" crc="3937486743" ref="index"/>
+    <file name="nomq_index.css" crc="3927483995" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,8 +20,12 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4040925358" ref="index"/>
-    <file name="u474-4.png" crc="69007246" ref="index"/>
-    <file name="u474-4_2x.png" crc="187426999" ref="index"/>
+    <file name="02主圖.jpg" crc="4038121132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u486-8.png" crc="196828472" ref="index"/>
+    <file name="u486-8_2x.png" crc="161199066" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="01 logo.png" crc="15589863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -30,70 +34,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u331-6.png" crc="339883509" ref="index"/>
-    <file name="u331-6_2x.png" crc="277598499" ref="index"/>
-    <file name="02主圖.jpg" crc="4038121132" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u486-8.png" crc="196828472" ref="index"/>
-    <file name="u486-8_2x.png" crc="161199066" ref="index"/>
-    <file name="三角關係.png" crc="363645033" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="三角關係_2x.png" crc="343858504" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cleaner-water.png" crc="54070037" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cleaner-water_2x.png" crc="241853492" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2764-5.png" crc="4169047601" ref="index"/>
-    <file name="u2764-5_2x.png" crc="417743377" ref="index"/>
-    <file name="a-01.png" crc="4196643161" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a-01_2x.png" crc="4144253330" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b-01.png" crc="4216774131" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b-01_2x.png" crc="239089890" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u2018.png" crc="3965759205" ref="index"/>
-    <file name="u2018_2x.png" crc="3906159096" ref="index"/>
-    <file name="u2018-r.png" crc="156608606" ref="index"/>
-    <file name="u2018-r_2x.png" crc="184504718" ref="index"/>
-    <file name="u2018-a.png" crc="3774687678" ref="index"/>
-    <file name="u2018-a_2x.png" crc="3894106005" ref="index"/>
-    <file name="u2016.png" crc="382184956" ref="index"/>
-    <file name="u2016_2x.png" crc="106036826" ref="index"/>
-    <file name="u2016-r.png" crc="4047004934" ref="index"/>
-    <file name="u2016-r_2x.png" crc="4020277366" ref="index"/>
-    <file name="u2016-a.png" crc="382184956" ref="index"/>
-    <file name="u2016-a_2x.png" crc="106036826" ref="index"/>
-    <file name="04介紹圖.png" crc="4029147620" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="04介紹圖_2x.png" crc="4039270353" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u828-4.png" crc="469432141" ref="index"/>
-    <file name="u828-4_2x.png" crc="512254202" ref="index"/>
+    <file name="u331-7.png" crc="3954766737" ref="index"/>
+    <file name="u331-7_2x.png" crc="4105794251" ref="index"/>
+    <file name="u474-7.png" crc="4255058556" ref="index"/>
+    <file name="u474-7_2x.png" crc="3827427672" ref="index"/>
     <file name="icon-patroler.png" crc="3762402532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -132,29 +76,75 @@
     <file name="icon-commander-04-crop-u1455_2x.png" crc="78794219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u331-62.png" crc="339883509" ref="index"/>
-    <file name="u331-6_2x2.png" crc="277598499" ref="index"/>
-    <file name="02主圖733x518.jpg" crc="4246574321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="三角關係.png" crc="363645033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u474-42.png" crc="4081466959" ref="index"/>
-    <file name="u474-4_2x2.png" crc="81841772" ref="index"/>
+    <file name="三角關係_2x.png" crc="343858504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cleaner-water.png" crc="54070037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cleaner-water_2x.png" crc="241853492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2764-5.png" crc="4169047601" ref="index"/>
+    <file name="u2764-5_2x.png" crc="417743377" ref="index"/>
+    <file name="a-01.png" crc="4196643161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-01_2x.png" crc="4144253330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-01.png" crc="4216774131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-01_2x.png" crc="239089890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2018.png" crc="3965759205" ref="index"/>
+    <file name="u2018_2x.png" crc="3906159096" ref="index"/>
+    <file name="u2018-r.png" crc="156608606" ref="index"/>
+    <file name="u2018-r_2x.png" crc="184504718" ref="index"/>
+    <file name="u2018-a.png" crc="3774687678" ref="index"/>
+    <file name="u2018-a_2x.png" crc="3894106005" ref="index"/>
+    <file name="u2016.png" crc="382184956" ref="index"/>
+    <file name="u2016_2x.png" crc="106036826" ref="index"/>
+    <file name="u2016-r.png" crc="4047004934" ref="index"/>
+    <file name="u2016-r_2x.png" crc="4020277366" ref="index"/>
+    <file name="u2016-a.png" crc="382184956" ref="index"/>
+    <file name="u2016-a_2x.png" crc="106036826" ref="index"/>
+    <file name="u828-4.png" crc="469432141" ref="index"/>
+    <file name="u828-4_2x.png" crc="512254202" ref="index"/>
+    <file name="02主圖749x529.jpg" crc="514160976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u331-72.png" crc="4103559370" ref="index"/>
+    <file name="u331-7_2x2.png" crc="239627566" ref="index"/>
+    <file name="u474-72.png" crc="517573526" ref="index"/>
+    <file name="u474-7_2x2.png" crc="23267932" ref="index"/>
     <file name="u486-82.png" crc="110089364" ref="index"/>
     <file name="u486-8_2x2.png" crc="152262525" ref="index"/>
+    <file name="04733x406.jpg" crc="450103660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04733x406_2x.jpg" crc="4003727078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u668-72.png" crc="211269263" ref="index"/>
     <file name="u668-7_2x2.png" crc="484897323" ref="index"/>
     <file name="05755x418.jpg" crc="404577047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="05755x418_2x.jpg" crc="168584978" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="04733x406.jpg" crc="450103660" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="04733x406_2x.jpg" crc="4003727078" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2501-62.png" crc="147871048" ref="index"/>
@@ -177,16 +167,10 @@
     <file name="u2016-r_2x2.png" crc="4020277366" ref="index"/>
     <file name="u2016-a2.png" crc="382184956" ref="index"/>
     <file name="u2016-a_2x2.png" crc="106036826" ref="index"/>
-    <file name="u2764-52.png" crc="4169047601" ref="index"/>
-    <file name="u2764-5_2x2.png" crc="417743377" ref="index"/>
-    <file name="04介紹圖734x402.png" crc="396417741" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="04介紹圖734x402_2x.png" crc="240446414" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u828-42.png" crc="469432141" ref="index"/>
     <file name="u828-4_2x2.png" crc="512254202" ref="index"/>
+    <file name="u2764-52.png" crc="4169047601" ref="index"/>
+    <file name="u2764-5_2x2.png" crc="417743377" ref="index"/>
   </folder>
-  <file name="index.html" crc="4047743541" seo="true" mt="1554976031675" redirect="true"/>
+  <file name="index.html" crc="3825495357" seo="true" mt="1555577895744" redirect="true"/>
 </manifest>
